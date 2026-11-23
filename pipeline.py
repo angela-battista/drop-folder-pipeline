@@ -26,6 +26,23 @@ def validate(df, table_name):
     return problems
 
 
+def clean(df, table_name):
+    if table_name == "orders":
+        df = df.drop_duplicates()
+        df["customer_id"] = df["customer_id"].fillna(0).astype(int)
+        df["order_date"] = pd.to_datetime(df["order_date"])
+
+    if table_name == "customers":
+        df["signup_date"] = pd.to_datetime(df["signup_date"])
+        df["region"] = df["region"].map({"SW": "Southwest", "SE": "Southeast"}).fillna(
+            df["region"].str.title())
+
+    if table_name == "returns":
+        df["return_date"] = pd.to_datetime(df["return_date"])
+
+    return df
+
+
 for file in DROP.glob("*.csv"):
     df = pd.read_csv(file)
     problems = validate(df, file.stem)
@@ -33,3 +50,6 @@ for file in DROP.glob("*.csv"):
         print(file.name, "FAILED:", problems)
         shutil.move(str(file), REJECTED / file.name)
         (REJECTED / file.stem + ".reason.txt").write_text("\n".join(problems))
+    else:
+        cleaned = clean(df, file.stem)
+        print(file.name, "PASSED:", len(cleaned), "rows -->", "after cleaning")
