@@ -1,0 +1,978 @@
+﻿order_item_id,order_id,product_name,category,quantity,unit_price
+927,5475,Desk Lamp,Home,3,28.75
+586,5303,Wireless Mouse,Electronics,3,24.99
+592,5305,Yoga Mat,Fitness,2,32.5
+59,5033,Backpack,Apparel,3,64.99
+793,5411,Desk Lamp,Home,3,28.75
+207,5109,Desk Lamp,Home,3,28.75
+871,5447,Water Bottle,Fitness,2,18
+884,5455,Bluetooth Speaker,Electronics,1,59.99
+630,5326,Desk Lamp,Home,3,28.75
+637,5330,Backpack,Apparel,1,64.99
+265,5137,Running Shoes,Apparel,2,89.99
+447,5228,Water Bottle,Fitness,3,18
+104,5056,Water Bottle,Fitness,1,18
+915,5470,Water Bottle,Fitness,1,18
+891,5459,Desk Lamp,Home,1,28.75
+377,5196,Desk Lamp,Home,1,28.75
+556,5287,Bluetooth Speaker,Electronics,2,59.99
+710,5370,Coffee Grinder,Home,3,45
+868,5446,Coffee Grinder,Home,3,45
+529,5273,Yoga Mat,Fitness,1,32.5
+646,5337,Wireless Mouse,Electronics,1,24.99
+779,5404,Yoga Mat,Fitness,2,32.5
+877,5451,Yoga Mat,Fitness,3,32.5
+772,5401,Backpack,Apparel,2,64.99
+963,5496,Water Bottle,Fitness,3,18
+817,5422,Wireless Mouse,Electronics,1,24.99
+587,5304,Desk Lamp,Home,2,28.75
+677,5353,Yoga Mat,Fitness,3,32.5
+920,5472,Water Bottle,Fitness,3,18
+654,5341,Wireless Mouse,Electronics,2,24.99
+438,5224,Bluetooth Speaker,Electronics,2,59.99
+515,5266,Coffee Grinder,Home,3,45
+629,5326,Running Shoes,Apparel,2,89.99
+632,5327,Wireless Mouse,Electronics,1,24.99
+432,5220,Running Shoes,Apparel,2,89.99
+190,5100,Bluetooth Speaker,Electronics,3,59.99
+553,5285,Water Bottle,Fitness,1,18
+240,5124,Backpack,Apparel,2,64.99
+305,5156,Yoga Mat,Fitness,2,32.5
+600,5310,Coffee Grinder,Home,1,45
+499,5257,Bluetooth Speaker,Electronics,2,59.99
+86,5047,Running Shoes,Apparel,1,89.99
+812,5420,Desk Lamp,Home,3,28.75
+315,5161,Bluetooth Speaker,Electronics,1,59.99
+444,5226,Bluetooth Speaker,Electronics,2,59.99
+746,5390,Running Shoes,Apparel,3,89.99
+84,5046,Coffee Grinder,Home,3,45
+289,5150,Yoga Mat,Fitness,2,32.5
+792,5411,Running Shoes,Apparel,2,89.99
+244,5126,Desk Lamp,Home,3,28.75
+29,5019,Backpack,Apparel,3,64.99
+655,5341,Running Shoes,Apparel,3,89.99
+28,5018,Coffee Grinder,Home,1,45
+49,5028,Running Shoes,Apparel,1,89.99
+193,5101,Water Bottle,Fitness,1,18
+925,5474,Running Shoes,Apparel,1,89.99
+737,5383,Desk Lamp,Home,1,28.75
+510,5264,Wireless Mouse,Electronics,1,24.99
+100,5054,Desk Lamp,Home,3,28.75
+236,5122,Wireless Mouse,Electronics,1,24.99
+146,5079,Coffee Grinder,Home,3,45
+814,5420,Running Shoes,Apparel,2,89.99
+506,5260,Coffee Grinder,Home,1,45
+836,5432,Running Shoes,Apparel,3,89.99
+681,5355,Backpack,Apparel,3,64.99
+62,5035,Water Bottle,Fitness,3,18
+88,5047,Running Shoes,Apparel,2,89.99
+783,5406,Backpack,Apparel,2,64.99
+82,5045,Water Bottle,Fitness,3,18
+320,5164,Desk Lamp,Home,2,28.75
+465,5237,Running Shoes,Apparel,3,89.99
+52,5030,Desk Lamp,Home,1,28.75
+718,5372,Water Bottle,Fitness,3,18
+489,5251,Yoga Mat,Fitness,3,32.5
+361,5187,Yoga Mat,Fitness,1,32.5
+930,5477,Coffee Grinder,Home,3,45
+145,5078,Running Shoes,Apparel,1,89.99
+645,5336,Running Shoes,Apparel,3,89.99
+853,5440,Bluetooth Speaker,Electronics,3,59.99
+228,5119,Desk Lamp,Home,1,28.75
+860,5443,Bluetooth Speaker,Electronics,3,59.99
+402,5207,Wireless Mouse,Electronics,2,24.99
+856,5441,Backpack,Apparel,1,64.99
+653,5341,Backpack,Apparel,1,64.99
+763,5398,Yoga Mat,Fitness,2,32.5
+357,5184,Backpack,Apparel,1,64.99
+650,5339,Running Shoes,Apparel,1,89.99
+194,5102,Backpack,Apparel,2,64.99
+238,5123,Bluetooth Speaker,Electronics,3,59.99
+11,5008,Yoga Mat,Fitness,1,32.5
+841,5434,Wireless Mouse,Electronics,1,24.99
+271,5140,Desk Lamp,Home,3,28.75
+762,5397,Running Shoes,Apparel,1,89.99
+294,5151,Bluetooth Speaker,Electronics,3,59.99
+66,5036,Running Shoes,Apparel,2,89.99
+760,5396,Bluetooth Speaker,Electronics,3,59.99
+400,5205,Coffee Grinder,Home,2,45
+667,5348,Coffee Grinder,Home,3,45
+93,5050,Bluetooth Speaker,Electronics,2,59.99
+31,5020,Coffee Grinder,Home,3,45
+74,5042,Backpack,Apparel,2,64.99
+178,5095,Water Bottle,Fitness,2,18
+416,5212,Backpack,Apparel,1,64.99
+440,5225,Water Bottle,Fitness,1,18
+597,5307,Yoga Mat,Fitness,2,32.5
+418,5213,Wireless Mouse,Electronics,3,24.99
+122,5063,Wireless Mouse,Electronics,1,24.99
+239,5123,Water Bottle,Fitness,2,18
+522,5270,Wireless Mouse,Electronics,2,24.99
+181,5096,Coffee Grinder,Home,2,45
+450,5229,Coffee Grinder,Home,2,45
+256,5132,Backpack,Apparel,2,64.99
+550,5283,Wireless Mouse,Electronics,1,24.99
+523,5270,Yoga Mat,Fitness,3,32.5
+535,5275,Running Shoes,Apparel,3,89.99
+736,5382,Water Bottle,Fitness,2,18
+668,5348,Yoga Mat,Fitness,3,32.5
+195,5103,Desk Lamp,Home,1,28.75
+92,5049,Water Bottle,Fitness,2,18
+386,5199,Yoga Mat,Fitness,1,32.5
+956,5492,Water Bottle,Fitness,2,18
+816,5421,Backpack,Apparel,3,64.99
+176,5094,Water Bottle,Fitness,3,18
+866,5445,Water Bottle,Fitness,3,18
+568,5293,Water Bottle,Fitness,2,18
+674,5351,Coffee Grinder,Home,3,45
+479,5245,Backpack,Apparel,1,64.99
+429,5218,Water Bottle,Fitness,2,18
+412,5211,Running Shoes,Apparel,1,89.99
+975,5240,Coffee Grinder,Home,3,45
+156,5084,Desk Lamp,Home,1,28.75
+731,5379,Coffee Grinder,Home,1,45
+87,5047,Bluetooth Speaker,Electronics,2,59.99
+822,5425,Running Shoes,Apparel,1,89.99
+313,5159,Bluetooth Speaker,Electronics,3,59.99
+102,5055,Water Bottle,Fitness,3,18
+248,5127,Backpack,Apparel,1,64.99
+40,5024,Bluetooth Speaker,Electronics,1,59.99
+525,5271,Backpack,Apparel,1,64.99
+410,5210,Running Shoes,Apparel,3,89.99
+158,5085,Water Bottle,Fitness,2,18
+137,5072,Desk Lamp,Home,2,28.75
+81,5045,Bluetooth Speaker,Electronics,2,59.99
+127,5066,Backpack,Apparel,1,64.99
+119,5062,Desk Lamp,Home,1,28.75
+575,5298,Bluetooth Speaker,Electronics,3,59.99
+446,5227,Wireless Mouse,Electronics,2,24.99
+233,5121,Bluetooth Speaker,Electronics,3,59.99
+756,5395,Wireless Mouse,Electronics,3,24.99
+96,5051,Coffee Grinder,Home,1,45
+264,5137,Bluetooth Speaker,Electronics,3,59.99
+473,5242,Desk Lamp,Home,1,28.75
+476,5243,Water Bottle,Fitness,1,18
+109,5058,Yoga Mat,Fitness,3,32.5
+393,5203,Desk Lamp,Home,3,28.75
+466,5237,Backpack,Apparel,3,64.99
+698,5365,Coffee Grinder,Home,1,45
+125,5065,Coffee Grinder,Home,-2,45
+776,5403,Wireless Mouse,Electronics,1,24.99
+267,5138,Backpack,Apparel,1,64.99
+42,5025,Coffee Grinder,Home,1,45
+488,5250,Desk Lamp,Home,1,28.75
+6,5004,Backpack,Apparel,2,64.99
+65,5036,Desk Lamp,Home,2,28.75
+198,5105,Backpack,Apparel,1,64.99
+46,5027,Desk Lamp,Home,3,28.75
+202,5108,Bluetooth Speaker,Electronics,3,59.99
+350,5180,Desk Lamp,Home,2,28.75
+4,5002,Coffee Grinder,Home,1,45
+196,5104,Wireless Mouse,Electronics,1,24.99
+401,5206,Coffee Grinder,Home,3,45
+392,5202,Water Bottle,Fitness,2,18
+566,5292,Desk Lamp,Home,3,28.75
+821,5424,Running Shoes,Apparel,1,89.99
+713,5371,Wireless Mouse,Electronics,1,24.99
+827,5426,Yoga Mat,Fitness,2,32.5
+382,5198,Water Bottle,Fitness,2,18
+607,5313,Yoga Mat,Fitness,2,32.5
+457,5232,Running Shoes,Apparel,1,89.99
+747,5390,Water Bottle,Fitness,1,18
+291,5150,Desk Lamp,Home,2,28.75
+707,5369,Desk Lamp,Home,2,28.75
+543,5280,Water Bottle,Fitness,3,18
+572,5295,Running Shoes,Apparel,3,89.99
+165,5089,Running Shoes,Apparel,3,89.99
+912,5469,Yoga Mat,Fitness,1,32.5
+801,5415,Water Bottle,Fitness,2,18
+470,5240,Desk Lamp,Home,2,28.75
+217,5115,Backpack,Apparel,2,64.99
+79,5044,Desk Lamp,Home,3,28.75
+110,5058,Wireless Mouse,Electronics,1,24.99
+331,5170,Desk Lamp,Home,1,28.75
+144,5078,Running Shoes,Apparel,2,89.99
+408,5209,Coffee Grinder,Home,3,45
+840,5434,Water Bottle,Fitness,3,18
+212,5112,Water Bottle,Fitness,1,18
+103,5055,Desk Lamp,Home,3,28.75
+47,5028,Wireless Mouse,Electronics,3,24.99
+5,5003,Coffee Grinder,Home,1,45
+351,5181,Running Shoes,Apparel,3,89.99
+124,5064,Running Shoes,Apparel,1,89.99
+329,5169,Desk Lamp,Home,3,28.75
+564,5292,Wireless Mouse,Electronics,2,24.99
+791,5411,Bluetooth Speaker,Electronics,3,59.99
+215,5114,Yoga Mat,Fitness,3,32.5
+957,5492,Running Shoes,Apparel,2,89.99
+459,5233,Yoga Mat,Fitness,3,32.5
+616,5319,Desk Lamp,Home,3,28.75
+717,5372,Yoga Mat,Fitness,2,32.5
+898,5462,Yoga Mat,Fitness,1,32.5
+851,5439,Running Shoes,Apparel,2,89.99
+684,5357,Running Shoes,Apparel,3,89.99
+138,5073,Desk Lamp,Home,3,28.75
+453,5230,Yoga Mat,Fitness,2,32.5
+455,5231,Desk Lamp,Home,1,28.75
+112,5059,Coffee Grinder,Home,3,45
+270,5139,Desk Lamp,Home,3,28.75
+805,5417,Running Shoes,Apparel,2,89.99
+17,5011,Running Shoes,Apparel,2,89.99
+647,5337,Yoga Mat,Fitness,2,32.5
+135,5071,Yoga Mat,Fitness,2,32.5
+904,5465,Desk Lamp,Home,3,28.75
+894,5460,Coffee Grinder,Home,3,45
+534,5275,Water Bottle,Fitness,2,18
+191,5101,Coffee Grinder,Home,3,45
+770,5401,Running Shoes,Apparel,1,89.99
+358,5185,Desk Lamp,Home,3,28.75
+147,5079,Backpack,Apparel,3,64.99
+247,5127,Yoga Mat,Fitness,2,32.5
+480,5246,Desk Lamp,Home,3,28.75
+302,5155,Yoga Mat,Fitness,3,32.5
+334,5171,Yoga Mat,Fitness,1,32.5
+924,5473,Running Shoes,Apparel,3,89.99
+288,5149,Yoga Mat,Fitness,1,32.5
+824,5425,Coffee Grinder,Home,2,45
+538,5277,Backpack,Apparel,2,64.99
+699,5365,Bluetooth Speaker,Electronics,2,59.99
+337,5173,Bluetooth Speaker,Electronics,3,59.99
+908,5467,Bluetooth Speaker,Electronics,3,59.99
+657,5342,Backpack,Apparel,3,64.99
+106,5057,Wireless Mouse,Electronics,3,24.99
+164,5088,Coffee Grinder,Home,2,45
+502,5258,Running Shoes,Apparel,1,89.99
+734,5380,Desk Lamp,Home,2,28.75
+722,5375,Bluetooth Speaker,Electronics,2,59.99
+129,5067,Backpack,Apparel,1,64.99
+128,5067,Running Shoes,Apparel,2,89.99
+200,5106,Coffee Grinder,Home,3,45
+962,5496,Backpack,Apparel,1,64.99
+823,5425,Yoga Mat,Fitness,1,32.5
+688,5359,Coffee Grinder,Home,2,45
+618,5321,Desk Lamp,Home,2,28.75
+692,5362,Yoga Mat,Fitness,1,32.5
+451,5229,Bluetooth Speaker,Electronics,1,59.99
+325,5167,Bluetooth Speaker,Electronics,2,59.99
+322,5165,Wireless Mouse,Electronics,2,24.99
+887,5457,Running Shoes,Apparel,1,89.99
+570,5294,Coffee Grinder,Home,3,45
+32,5020,Running Shoes,Apparel,1,89.99
+649,5339,Backpack,Apparel,2,64.99
+467,5238,Coffee Grinder,Home,1,45
+295,5152,Bluetooth Speaker,Electronics,1,59.99
+785,5407,Desk Lamp,Home,3,28.75
+113,5059,Yoga Mat,Fitness,1,32.5
+733,5379,Yoga Mat,Fitness,1,32.5
+133,5070,Bluetooth Speaker,Electronics,3,59.99
+939,5483,Running Shoes,Apparel,1,89.99
+690,5361,Desk Lamp,Home,3,28.75
+786,5407,Wireless Mouse,Electronics,2,24.99
+928,5476,Running Shoes,Apparel,3,89.99
+780,5404,Coffee Grinder,Home,1,45
+593,5306,Bluetooth Speaker,Electronics,2,59.99
+262,5136,Bluetooth Speaker,Electronics,3,59.99
+210,5112,Coffee Grinder,Home,1,45
+639,5332,Bluetooth Speaker,Electronics,2,59.99
+379,5197,Bluetooth Speaker,Electronics,3,59.99
+304,5156,Water Bottle,Fitness,3,18
+160,5086,Bluetooth Speaker,Electronics,3,59.99
+389,5201,Backpack,Apparel,-3,64.99
+571,5294,Wireless Mouse,Electronics,3,24.99
+98,5052,Bluetooth Speaker,Electronics,3,59.99
+448,5228,Running Shoes,Apparel,1,89.99
+359,5186,Coffee Grinder,Home,1,45
+280,5146,Backpack,Apparel,2,64.99
+507,5261,Water Bottle,Fitness,2,18
+187,5098,Coffee Grinder,Home,1,45
+906,5466,Yoga Mat,Fitness,2,32.5
+441,5225,Coffee Grinder,Home,2,45
+225,5118,Wireless Mouse,Electronics,3,24.99
+15,5010,Wireless Mouse,Electronics,2,24.99
+171,5092,Bluetooth Speaker,Electronics,1,59.99
+782,5406,Coffee Grinder,Home,1,45
+363,5188,Water Bottle,Fitness,2,18
+116,5060,Backpack,Apparel,3,64.99
+407,5209,Yoga Mat,Fitness,2,32.5
+768,5400,Running Shoes,Apparel,1,89.99
+417,5213,Desk Lamp,Home,3,28.75
+20,5013,Backpack,Apparel,3,64.99
+108,5058,Wireless Mouse,Electronics,2,24.99
+967,5498,Desk Lamp,Home,2,28.75
+500,5258,Wireless Mouse,Electronics,3,24.99
+237,5123,Backpack,Apparel,3,64.99
+355,5184,Backpack,Apparel,1,64.99
+537,5276,Backpack,Apparel,3,64.99
+234,5122,Water Bottle,Fitness,2,18
+230,5120,Bluetooth Speaker,Electronics,3,59.99
+754,5394,Backpack,Apparel,2,64.99
+951,5489,Water Bottle,Fitness,3,18
+869,5446,Yoga Mat,Fitness,2,32.5
+559,5289,Wireless Mouse,Electronics,3,24.99
+749,5391,Bluetooth Speaker,Electronics,1,59.99
+478,5244,Yoga Mat,Fitness,2,32.5
+430,5219,Backpack,Apparel,2,64.99
+631,5326,Wireless Mouse,Electronics,3,24.99
+889,5458,Coffee Grinder,Home,1,45
+744,5389,Backpack,Apparel,1,64.99
+937,5481,Water Bottle,Fitness,1,18
+117,5061,Wireless Mouse,Electronics,3,24.99
+69,5038,Water Bottle,Fitness,2,18
+360,5187,Coffee Grinder,Home,3,45
+340,5175,Backpack,Apparel,2,64.99
+387,5200,Wireless Mouse,Electronics,2,24.99
+615,5318,Running Shoes,Apparel,3,89.99
+352,5181,Backpack,Apparel,2,64.99
+753,5393,Bluetooth Speaker,Electronics,1,59.99
+38,5024,Bluetooth Speaker,Electronics,2,59.99
+672,5350,Desk Lamp,Home,2,28.75
+590,5305,Water Bottle,Fitness,3,18
+107,5057,Wireless Mouse,Electronics,2,24.99
+372,5194,Yoga Mat,Fitness,2,32.5
+324,5166,Running Shoes,Apparel,1,89.99
+829,5428,Coffee Grinder,Home,3,45
+252,5128,Running Shoes,Apparel,3,89.99
+633,5327,Water Bottle,Fitness,1,18
+449,5229,Bluetooth Speaker,Electronics,2,59.99
+652,5340,Coffee Grinder,Home,1,45
+469,5239,Bluetooth Speaker,Electronics,3,59.99
+216,5115,Water Bottle,Fitness,1,18
+695,5363,Wireless Mouse,Electronics,2,24.99
+57,5031,Backpack,Apparel,3,64.99
+527,5272,Coffee Grinder,Home,2,45
+348,5180,Water Bottle,Fitness,1,18
+170,5091,Backpack,Apparel,3,64.99
+292,5151,Running Shoes,Apparel,2,89.99
+182,5096,Wireless Mouse,Electronics,3,24.99
+54,5030,Coffee Grinder,Home,2,45
+966,5498,Wireless Mouse,Electronics,2,24.99
+846,5437,Backpack,Apparel,2,64.99
+347,5179,Wireless Mouse,Electronics,2,24.99
+723,5375,Running Shoes,Apparel,1,89.99
+152,5082,Coffee Grinder,Home,2,45
+947,5486,Coffee Grinder,Home,3,45
+231,5121,Coffee Grinder,Home,2,45
+752,5393,Bluetooth Speaker,Electronics,1,59.99
+544,5280,Running Shoes,Apparel,1,89.99
+950,5489,Bluetooth Speaker,Electronics,2,59.99
+838,5433,Running Shoes,Apparel,3,89.99
+189,5099,Wireless Mouse,Electronics,3,24.99
+977,5192,Yoga Mat,Fitness,1,32.5
+764,5398,Wireless Mouse,Electronics,2,24.99
+186,5098,Yoga Mat,Fitness,1,32.5
+44,5026,Coffee Grinder,Home,2,45
+751,5392,Backpack,Apparel,3,64.99
+670,5349,Yoga Mat,Fitness,3,32.5
+585,5302,Yoga Mat,Fitness,2,32.5
+143,5078,Water Bottle,Fitness,2,18
+974,5038,Backpack,Apparel,3,64.99
+551,5284,Backpack,Apparel,3,64.99
+771,5401,Running Shoes,Apparel,2,89.99
+353,5182,Desk Lamp,Home,2,28.75
+318,5163,Wireless Mouse,Electronics,1,24.99
+323,5165,Bluetooth Speaker,Electronics,1,59.99
+761,5396,Bluetooth Speaker,Electronics,3,59.99
+960,5495,Backpack,Apparel,2,64.99
+519,5269,Backpack,Apparel,1,64.99
+574,5297,Desk Lamp,Home,1,28.75
+330,5170,Backpack,Apparel,3,64.99
+919,5472,Wireless Mouse,Electronics,3,24.99
+151,5082,Wireless Mouse,Electronics,3,24.99
+945,5485,Backpack,Apparel,3,64.99
+68,5038,Backpack,Apparel,3,64.99
+492,5253,Water Bottle,Fitness,3,18
+799,5413,Coffee Grinder,Home,2,45
+528,5272,Desk Lamp,Home,3,28.75
+388,5201,Backpack,Apparel,3,64.99
+808,5418,Bluetooth Speaker,Electronics,2,59.99
+328,5168,Desk Lamp,Home,3,28.75
+845,5436,Desk Lamp,Home,1,28.75
+640,5333,Yoga Mat,Fitness,3,32.5
+513,5265,Coffee Grinder,Home,1,45
+627,5325,Running Shoes,Apparel,1,89.99
+638,5331,Bluetooth Speaker,Electronics,2,59.99
+803,5416,Bluetooth Speaker,Electronics,2,59.99
+580,5300,Backpack,Apparel,3,64.99
+788,5409,Coffee Grinder,Home,2,45
+132,5069,Desk Lamp,Home,2,28.75
+758,5395,Backpack,Apparel,3,64.99
+297,5153,Backpack,Apparel,2,64.99
+284,5148,Wireless Mouse,Electronics,3,24.99
+810,5419,Wireless Mouse,Electronics,3,24.99
+704,5367,Desk Lamp,Home,1,28.75
+131,5069,Coffee Grinder,Home,1,45
+531,5273,Backpack,Apparel,3,64.99
+563,5291,Wireless Mouse,Electronics,2,24.99
+115,5060,Coffee Grinder,Home,3,45
+625,5324,Backpack,Apparel,1,64.99
+643,5334,Water Bottle,Fitness,3,18
+530,5273,Desk Lamp,Home,1,28.75
+797,5413,Backpack,Apparel,1,64.99
+272,5141,Backpack,Apparel,1,64.99
+314,5160,Desk Lamp,Home,3,28.75
+378,5196,Wireless Mouse,Electronics,3,24.99
+428,5218,Backpack,Apparel,3,64.99
+547,5281,Coffee Grinder,Home,2,45
+285,5148,Coffee Grinder,Home,2,45
+130,5068,Yoga Mat,Fitness,1,32.5
+396,5204,Desk Lamp,Home,2,28.75
+843,5436,Backpack,Apparel,3,64.99
+394,5203,Bluetooth Speaker,Electronics,1,59.99
+620,5321,Yoga Mat,Fitness,2,32.5
+634,5327,Desk Lamp,Home,3,28.75
+211,5112,Desk Lamp,Home,3,28.75
+613,5317,Backpack,Apparel,1,64.99
+596,5307,Desk Lamp,Home,1,28.75
+740,5385,Backpack,Apparel,3,64.99
+526,5272,Desk Lamp,Home,1,28.75
+41,5025,Wireless Mouse,Electronics,2,24.99
+307,5157,Wireless Mouse,Electronics,1,24.99
+636,5329,Coffee Grinder,Home,3,45
+374,5195,Coffee Grinder,Home,1,45
+205,5109,Bluetooth Speaker,Electronics,1,59.99
+794,5412,Desk Lamp,Home,3,28.75
+273,5141,Coffee Grinder,Home,2,45
+9,5007,Wireless Mouse,Electronics,3,24.99
+356,5184,Running Shoes,Apparel,3,89.99
+896,5461,Bluetooth Speaker,Electronics,2,59.99
+867,5446,Wireless Mouse,Electronics,1,24.99
+71,5040,Water Bottle,Fitness,2,18
+398,5205,Running Shoes,Apparel,1,89.99
+890,5459,Bluetooth Speaker,Electronics,2,59.99
+702,5366,Running Shoes,Apparel,2,89.99
+140,5075,Desk Lamp,Home,3,28.75
+900,5464,Yoga Mat,Fitness,2,32.5
+8,5006,Yoga Mat,Fitness,3,32.5
+809,5418,Water Bottle,Fitness,2,18
+462,5235,Coffee Grinder,Home,1,45
+458,5232,Water Bottle,Fitness,3,18
+94,5051,Yoga Mat,Fitness,3,32.5
+773,5402,Wireless Mouse,Electronics,2,24.99
+942,5484,Backpack,Apparel,1,64.99
+80,5044,Water Bottle,Fitness,2,18
+524,5271,Coffee Grinder,Home,2,45
+922,5473,Yoga Mat,Fitness,3,32.5
+343,5177,Yoga Mat,Fitness,3,32.5
+579,5300,Backpack,Apparel,2,64.99
+50,5029,Bluetooth Speaker,Electronics,3,59.99
+708,5369,Desk Lamp,Home,1,28.75
+251,5128,Water Bottle,Fitness,3,18
+148,5079,Running Shoes,Apparel,2,89.99
+391,5202,Water Bottle,Fitness,1,18
+959,5494,Coffee Grinder,Home,1,45
+929,5476,Wireless Mouse,Electronics,1,24.99
+58,5032,Water Bottle,Fitness,1,18
+905,5466,Yoga Mat,Fitness,3,32.5
+558,5288,Backpack,Apparel,2,64.99
+136,5072,Running Shoes,Apparel,2,89.99
+611,5315,Backpack,Apparel,3,64.99
+675,5352,Running Shoes,Apparel,1,89.99
+56,5031,Yoga Mat,Fitness,3,32.5
+540,5278,Running Shoes,Apparel,1,89.99
+914,5470,Wireless Mouse,Electronics,1,24.99
+549,5282,Running Shoes,Apparel,1,89.99
+938,5482,Running Shoes,Apparel,3,89.99
+861,5443,Backpack,Apparel,1,64.99
+339,5174,Wireless Mouse,Electronics,2,24.99
+820,5423,Yoga Mat,Fitness,3,32.5
+621,5322,Water Bottle,Fitness,1,18
+383,5198,Coffee Grinder,Home,-3,45
+26,5017,Backpack,Apparel,3,64.99
+48,5028,Yoga Mat,Fitness,-3,32.5
+964,5497,Wireless Mouse,Electronics,2,24.99
+175,5093,Bluetooth Speaker,Electronics,3,59.99
+30,5019,Desk Lamp,Home,1,28.75
+60,5033,Backpack,Apparel,2,64.99
+390,5202,Backpack,Apparel,3,64.99
+154,5083,Running Shoes,Apparel,2,89.99
+757,5395,Wireless Mouse,Electronics,3,24.99
+533,5274,Water Bottle,Fitness,3,18
+693,5362,Backpack,Apparel,3,64.99
+162,5087,Backpack,Apparel,1,64.99
+245,5126,Backpack,Apparel,1,64.99
+701,5366,Coffee Grinder,Home,1,45
+159,5086,Coffee Grinder,Home,2,45
+872,5447,Bluetooth Speaker,Electronics,1,59.99
+327,5168,Bluetooth Speaker,Electronics,1,59.99
+949,5488,Water Bottle,Fitness,1,18
+371,5193,Yoga Mat,Fitness,3,32.5
+411,5210,Bluetooth Speaker,Electronics,2,59.99
+433,5220,Desk Lamp,Home,3,28.75
+659,5343,Running Shoes,Apparel,3,89.99
+944,5485,Coffee Grinder,Home,2,45
+800,5414,Water Bottle,Fitness,1,18
+727,5377,Water Bottle,Fitness,2,18
+911,5468,Water Bottle,Fitness,1,18
+180,5096,Running Shoes,Apparel,2,89.99
+742,5387,Running Shoes,Apparel,2,89.99
+367,5190,Yoga Mat,Fitness,3,32.5
+839,5434,Backpack,Apparel,1,64.99
+55,5031,Desk Lamp,Home,2,28.75
+879,5452,Coffee Grinder,Home,3,45
+679,5354,Yoga Mat,Fitness,1,32.5
+169,5091,Coffee Grinder,Home,3,45
+614,5318,Bluetooth Speaker,Electronics,3,59.99
+25,5017,Running Shoes,Apparel,2,89.99
+299,5154,Coffee Grinder,Home,2,45
+19,5012,Desk Lamp,Home,1,28.75
+255,5131,Wireless Mouse,Electronics,3,24.99
+226,5118,Bluetooth Speaker,Electronics,1,59.99
+420,5214,Water Bottle,Fitness,2,18
+576,5298,Desk Lamp,Home,2,28.75
+968,5498,Water Bottle,Fitness,1,18
+223,5117,Bluetooth Speaker,Electronics,1,59.99
+641,5334,Water Bottle,Fitness,1,18
+425,5216,Backpack,Apparel,2,64.99
+219,5116,Yoga Mat,Fitness,1,32.5
+778,5404,Water Bottle,Fitness,1,18
+716,5372,Desk Lamp,Home,2,28.75
+935,5480,Water Bottle,Fitness,3,18
+443,5226,Desk Lamp,Home,3,28.75
+741,5386,Water Bottle,Fitness,1,18
+287,5149,Coffee Grinder,Home,3,45
+67,5037,Coffee Grinder,Home,3,45
+454,5230,Bluetooth Speaker,Electronics,1,59.99
+909,5468,Yoga Mat,Fitness,3,32.5
+72,5041,Running Shoes,Apparel,3,89.99
+601,5311,Yoga Mat,Fitness,2,32.5
+413,5211,Wireless Mouse,Electronics,3,24.99
+83,5046,Backpack,Apparel,2,64.99
+882,5453,Wireless Mouse,Electronics,1,24.99
+802,5416,Running Shoes,Apparel,2,89.99
+16,5010,Backpack,Apparel,3,64.99
+711,5370,Yoga Mat,Fitness,3,32.5
+536,5276,Water Bottle,Fitness,-2,18
+557,5287,Water Bottle,Fitness,3,18
+452,5230,Wireless Mouse,Electronics,3,24.99
+555,5286,Bluetooth Speaker,Electronics,2,59.99
+405,5208,Desk Lamp,Home,2,28.75
+491,5252,Wireless Mouse,Electronics,1,24.99
+781,5405,Bluetooth Speaker,Electronics,1,59.99
+730,5378,Coffee Grinder,Home,2,45
+365,5190,Wireless Mouse,Electronics,1,24.99
+460,5234,Coffee Grinder,Home,2,45
+105,5057,Yoga Mat,Fitness,2,32.5
+269,5139,Coffee Grinder,Home,1,45
+834,5430,Backpack,Apparel,1,64.99
+819,5422,Wireless Mouse,Electronics,1,24.99
+242,5124,Running Shoes,Apparel,3,89.99
+431,5220,Wireless Mouse,Electronics,3,24.99
+662,5344,Water Bottle,Fitness,1,18
+204,5108,Water Bottle,Fitness,2,18
+910,5468,Wireless Mouse,Electronics,2,24.99
+97,5052,Water Bottle,Fitness,2,18
+468,5239,Desk Lamp,Home,1,28.75
+594,5306,Bluetooth Speaker,Electronics,2,59.99
+493,5254,Bluetooth Speaker,Electronics,1,59.99
+167,5089,Water Bottle,Fitness,1,18
+683,5356,Wireless Mouse,Electronics,1,24.99
+804,5416,Bluetooth Speaker,Electronics,1,59.99
+316,5162,Wireless Mouse,Electronics,3,24.99
+362,5188,Yoga Mat,Fitness,2,32.5
+139,5074,Running Shoes,Apparel,3,89.99
+277,5143,Yoga Mat,Fitness,2,32.5
+385,5199,Water Bottle,Fitness,1,18
+569,5293,Bluetooth Speaker,Electronics,3,59.99
+775,5403,Bluetooth Speaker,Electronics,1,59.99
+89,5048,Wireless Mouse,Electronics,1,24.99
+818,5422,Water Bottle,Fitness,3,18
+281,5146,Water Bottle,Fitness,2,18
+461,5235,Desk Lamp,Home,1,28.75
+669,5348,Water Bottle,Fitness,1,18
+899,5463,Wireless Mouse,Electronics,1,24.99
+588,5304,Bluetooth Speaker,Electronics,2,59.99
+203,5108,Yoga Mat,Fitness,3,32.5
+403,5207,Water Bottle,Fitness,1,18
+341,5176,Water Bottle,Fitness,2,18
+366,5190,Running Shoes,Apparel,3,89.99
+24,5016,Wireless Mouse,Electronics,1,24.99
+346,5178,Water Bottle,Fitness,3,18
+913,5469,Bluetooth Speaker,Electronics,1,59.99
+335,5172,Wireless Mouse,Electronics,3,24.99
+311,5158,Running Shoes,Apparel,1,89.99
+881,5453,Running Shoes,Apparel,3,89.99
+354,5183,Backpack,Apparel,1,64.99
+933,5479,Yoga Mat,Fitness,3,32.5
+241,5124,Running Shoes,Apparel,1,89.99
+319,5163,Bluetooth Speaker,Electronics,2,59.99
+720,5373,Running Shoes,Apparel,1,89.99
+263,5137,Bluetooth Speaker,Electronics,1,59.99
+99,5053,Coffee Grinder,Home,2,45
+725,5376,Desk Lamp,Home,1,28.75
+874,5448,Water Bottle,Fitness,2,18
+847,5438,Desk Lamp,Home,2,28.75
+90,5048,Backpack,Apparel,2,64.99
+516,5267,Coffee Grinder,Home,2,45
+332,5170,Backpack,Apparel,1,64.99
+703,5367,Yoga Mat,Fitness,3,32.5
+434,5221,Backpack,Apparel,1,64.99
+895,5461,Wireless Mouse,Electronics,3,24.99
+709,5369,Running Shoes,Apparel,3,89.99
+487,5249,Bluetooth Speaker,Electronics,3,59.99
+624,5323,Backpack,Apparel,3,64.99
+815,5421,Desk Lamp,Home,1,28.75
+901,5464,Running Shoes,Apparel,2,89.99
+261,5136,Bluetooth Speaker,Electronics,3,59.99
+306,5156,Coffee Grinder,Home,2,45
+197,5105,Running Shoes,Apparel,1,89.99
+141,5076,Backpack,Apparel,2,64.99
+595,5306,Coffee Grinder,Home,3,45
+123,5064,Wireless Mouse,Electronics,2,24.99
+495,5255,Bluetooth Speaker,Electronics,1,59.99
+111,5059,Desk Lamp,Home,3,28.75
+85,5046,Coffee Grinder,Home,2,45
+965,5497,Yoga Mat,Fitness,2,32.5
+514,5265,Water Bottle,Fitness,2,18
+483,5247,Wireless Mouse,Electronics,3,24.99
+666,5347,Yoga Mat,Fitness,1,32.5
+902,5464,Desk Lamp,Home,2,28.75
+75,5043,Coffee Grinder,Home,2,45
+936,5480,Wireless Mouse,Electronics,2,24.99
+714,5371,Coffee Grinder,Home,3,45
+274,5142,Wireless Mouse,Electronics,1,24.99
+397,5204,Bluetooth Speaker,Electronics,3,59.99
+155,5083,Yoga Mat,Fitness,1,32.5
+192,5101,Bluetooth Speaker,Electronics,3,59.99
+897,5461,Running Shoes,Apparel,3,89.99
+188,5099,Backpack,Apparel,1,64.99
+51,5029,Wireless Mouse,Electronics,3,24.99
+39,5024,Wireless Mouse,Electronics,2,24.99
+419,5214,Wireless Mouse,Electronics,3,24.99
+858,5442,Backpack,Apparel,3,64.99
+209,5111,Desk Lamp,Home,2,28.75
+376,5195,Wireless Mouse,Electronics,2,24.99
+464,5236,Running Shoes,Apparel,1,89.99
+471,5241,Coffee Grinder,Home,3,45
+518,5269,Yoga Mat,Fitness,1,32.5
+76,5043,Wireless Mouse,Electronics,2,24.99
+249,5127,Yoga Mat,Fitness,3,32.5
+560,5290,Backpack,Apparel,2,64.99
+303,5155,Bluetooth Speaker,Electronics,2,59.99
+583,5301,Water Bottle,Fitness,1,18
+724,5375,Coffee Grinder,Home,3,45
+932,5478,Running Shoes,Apparel,3,89.99
+12,5008,Backpack,Apparel,1,64.99
+486,5249,Bluetooth Speaker,Electronics,2,59.99
+463,5235,Running Shoes,Apparel,3,89.99
+954,5490,Water Bottle,Fitness,2,18
+628,5325,Wireless Mouse,Electronics,2,24.99
+282,5146,Bluetooth Speaker,Electronics,3,59.99
+254,5130,Water Bottle,Fitness,1,18
+961,5495,Wireless Mouse,Electronics,2,24.99
+738,5383,Water Bottle,Fitness,2,18
+903,5465,Backpack,Apparel,2,64.99
+578,5299,Desk Lamp,Home,2,28.75
+220,5116,Coffee Grinder,Home,1,45
+426,5217,Backpack,Apparel,3,64.99
+370,5192,Coffee Grinder,Home,1,45
+706,5368,Backpack,Apparel,3,64.99
+70,5039,Running Shoes,Apparel,3,89.99
+958,5493,Water Bottle,Fitness,3,18
+581,5301,Coffee Grinder,Home,2,45
+22,5014,Running Shoes,Apparel,3,89.99
+78,5044,Coffee Grinder,Home,2,45
+548,5282,Water Bottle,Fitness,2,18
+971,5131,Desk Lamp,Home,1,28.75
+926,5475,Wireless Mouse,Electronics,2,24.99
+126,5066,Desk Lamp,Home,2,28.75
+229,5119,Bluetooth Speaker,Electronics,3,59.99
+43,5025,Running Shoes,Apparel,3,89.99
+517,5268,Running Shoes,Apparel,1,89.99
+573,5296,Coffee Grinder,Home,2,45
+577,5299,Backpack,Apparel,2,64.99
+784,5407,Running Shoes,Apparel,1,89.99
+622,5322,Wireless Mouse,Electronics,2,24.99
+375,5195,Yoga Mat,Fitness,1,32.5
+206,5109,Yoga Mat,Fitness,3,32.5
+948,5487,Bluetooth Speaker,Electronics,3,59.99
+972,5131,Yoga Mat,Fitness,1,32.5
+7,5005,Running Shoes,Apparel,3,89.99
+494,5254,Coffee Grinder,Home,2,45
+774,5402,Water Bottle,Fitness,3,18
+923,5473,Wireless Mouse,Electronics,1,24.99
+750,5392,Desk Lamp,Home,2,28.75
+852,5440,Yoga Mat,Fitness,3,32.5
+260,5136,Wireless Mouse,Electronics,2,24.99
+283,5147,Wireless Mouse,Electronics,1,24.99
+635,5328,Bluetooth Speaker,Electronics,2,59.99
+591,5305,Desk Lamp,Home,1,28.75
+864,5444,Wireless Mouse,Electronics,2,24.99
+952,5490,Wireless Mouse,Electronics,1,24.99
+456,5231,Backpack,Apparel,2,64.99
+321,5164,Wireless Mouse,Electronics,2,24.99
+435,5221,Yoga Mat,Fitness,3,32.5
+664,5346,Desk Lamp,Home,1,28.75
+300,5154,Desk Lamp,Home,3,28.75
+437,5223,Backpack,Apparel,1,64.99
+676,5352,Running Shoes,Apparel,3,89.99
+795,5412,Bluetooth Speaker,Electronics,3,59.99
+439,5225,Water Bottle,Fitness,3,18
+326,5168,Coffee Grinder,Home,3,45
+404,5207,Desk Lamp,Home,2,28.75
+266,5138,Backpack,Apparel,1,64.99
+565,5292,Desk Lamp,Home,3,28.75
+603,5312,Water Bottle,Fitness,3,18
+798,5413,Wireless Mouse,Electronics,2,24.99
+279,5145,Running Shoes,Apparel,1,89.99
+656,5342,Backpack,Apparel,3,64.99
+743,5388,Running Shoes,Apparel,1,89.99
+712,5370,Yoga Mat,Fitness,1,32.5
+554,5286,Water Bottle,Fitness,1,18
+767,5399,Coffee Grinder,Home,1,45
+870,5447,Water Bottle,Fitness,1,18
+878,5451,Running Shoes,Apparel,1,89.99
+232,5121,Yoga Mat,Fitness,1,32.5
+246,5126,Yoga Mat,Fitness,3,32.5
+168,5090,Water Bottle,Fitness,3,18
+503,5259,Running Shoes,Apparel,1,89.99
+333,5171,Coffee Grinder,Home,3,45
+970,5500,Desk Lamp,Home,1,28.75
+427,5217,Wireless Mouse,Electronics,1,24.99
+542,5279,Desk Lamp,Home,1,28.75
+163,5087,Water Bottle,Fitness,2,18
+150,5081,Desk Lamp,Home,3,28.75
+227,5119,Coffee Grinder,Home,3,45
+686,5357,Running Shoes,Apparel,3,89.99
+95,5051,Water Bottle,Fitness,2,18
+222,5117,Backpack,Apparel,1,64.99
+598,5308,Running Shoes,Apparel,3,89.99
+700,5365,Bluetooth Speaker,Electronics,1,59.99
+474,5243,Yoga Mat,Fitness,1,32.5
+955,5491,Wireless Mouse,Electronics,3,24.99
+602,5312,Water Bottle,Fitness,2,18
+855,5441,Yoga Mat,Fitness,3,32.5
+35,5022,Wireless Mouse,Electronics,2,24.99
+218,5115,Coffee Grinder,Home,2,45
+73,5042,Yoga Mat,Fitness,3,32.5
+221,5116,Water Bottle,Fitness,1,18
+214,5113,Bluetooth Speaker,Electronics,2,59.99
+842,5435,Running Shoes,Apparel,3,89.99
+395,5204,Running Shoes,Apparel,3,89.99
+943,5485,Bluetooth Speaker,Electronics,1,59.99
+368,5191,Yoga Mat,Fitness,1,32.5
+13,5009,Running Shoes,Apparel,1,89.99
+830,5428,Backpack,Apparel,1,64.99
+344,5178,Bluetooth Speaker,Electronics,1,59.99
+199,5106,Backpack,Apparel,3,64.99
+726,5376,Backpack,Apparel,1,64.99
+697,5364,Running Shoes,Apparel,2,89.99
+235,5122,Coffee Grinder,Home,2,45
+696,5364,Bluetooth Speaker,Electronics,1,59.99
+421,5215,Bluetooth Speaker,Electronics,1,59.99
+811,5419,Coffee Grinder,Home,2,45
+857,5442,Running Shoes,Apparel,2,89.99
+609,5314,Bluetooth Speaker,Electronics,-1,59.99
+769,5400,Backpack,Apparel,3,64.99
+298,5154,Desk Lamp,Home,1,28.75
+64,5035,Running Shoes,Apparel,2,89.99
+735,5381,Running Shoes,Apparel,3,89.99
+608,5314,Yoga Mat,Fitness,1,32.5
+14,5009,Bluetooth Speaker,Electronics,1,59.99
+436,5222,Backpack,Apparel,1,64.99
+18,5011,Water Bottle,Fitness,3,18
+765,5398,Coffee Grinder,Home,1,45
+807,5417,Yoga Mat,Fitness,2,32.5
+759,5396,Bluetooth Speaker,Electronics,1,59.99
+349,5180,Running Shoes,Apparel,2,89.99
+208,5110,Wireless Mouse,Electronics,1,24.99
+91,5049,Water Bottle,Fitness,3,18
+308,5157,Running Shoes,Apparel,3,89.99
+342,5176,Wireless Mouse,Electronics,1,24.99
+381,5198,Water Bottle,Fitness,2,18
+345,5178,Water Bottle,Fitness,2,18
+472,5242,Wireless Mouse,Electronics,2,24.99
+850,5439,Running Shoes,Apparel,1,89.99
+552,5285,Bluetooth Speaker,Electronics,3,59.99
+599,5309,Desk Lamp,Home,3,28.75
+694,5363,Desk Lamp,Home,-1,28.75
+33,5021,Water Bottle,Fitness,1,18
+916,5470,Yoga Mat,Fitness,2,32.5
+658,5342,Running Shoes,Apparel,-1,89.99
+671,5350,Yoga Mat,Fitness,3,32.5
+173,5093,Wireless Mouse,Electronics,1,24.99
+832,5429,Water Bottle,Fitness,2,18
+833,5429,Wireless Mouse,Electronics,1,24.99
+409,5210,Coffee Grinder,Home,2,45
+813,5420,Running Shoes,Apparel,3,89.99
+885,5456,Bluetooth Speaker,Electronics,2,59.99
+201,5107,Backpack,Apparel,2,64.99
+293,5151,Water Bottle,Fitness,2,18
+584,5302,Water Bottle,Fitness,3,18
+848,5438,Desk Lamp,Home,1,28.75
+511,5264,Bluetooth Speaker,Electronics,1,59.99
+892,5460,Bluetooth Speaker,Electronics,3,59.99
+826,5426,Backpack,Apparel,2,64.99
+862,5443,Desk Lamp,Home,1,28.75
+973,5292,Coffee Grinder,Home,2,45
+940,5483,Water Bottle,Fitness,2,18
+490,5251,Coffee Grinder,Home,3,45
+880,5452,Coffee Grinder,Home,3,45
+907,5466,Wireless Mouse,Electronics,3,24.99
+134,5071,Water Bottle,Fitness,3,18
+61,5034,Running Shoes,Apparel,2,89.99
+691,5361,Desk Lamp,Home,2,28.75
+27,5017,Backpack,Apparel,1,64.99
+101,5055,Desk Lamp,Home,3,28.75
+532,5274,Wireless Mouse,Electronics,2,24.99
+589,5304,Yoga Mat,Fitness,3,32.5
+976,5192,Wireless Mouse,Electronics,1,24.99
+777,5403,Desk Lamp,Home,3,28.75
+789,5410,Desk Lamp,Home,3,28.75
+521,5270,Yoga Mat,Fitness,1,32.5
+364,5189,Running Shoes,Apparel,1,89.99
+310,5158,Desk Lamp,Home,3,28.75
+796,5412,Yoga Mat,Fitness,3,32.5
+605,5313,Desk Lamp,Home,3,28.75
+253,5129,Coffee Grinder,Home,2,45
+545,5281,Wireless Mouse,Electronics,2,24.99
+482,5247,Running Shoes,Apparel,3,89.99
+442,5226,Wireless Mouse,Electronics,1,24.99
+648,5338,Yoga Mat,Fitness,2,32.5
+477,5244,Yoga Mat,Fitness,3,32.5
+23,5015,Desk Lamp,Home,2,28.75
+63,5035,Bluetooth Speaker,Electronics,1,59.99
+149,5080,Coffee Grinder,Home,1,45
+484,5248,Bluetooth Speaker,Electronics,1,59.99
+728,5378,Running Shoes,Apparel,1,89.99
+883,5454,Desk Lamp,Home,3,28.75
+787,5408,Wireless Mouse,Electronics,2,24.99
+258,5134,Yoga Mat,Fitness,3,32.5
+53,5030,Coffee Grinder,Home,2,45
+243,5125,Desk Lamp,Home,3,28.75
+174,5093,Wireless Mouse,Electronics,2,24.99
+36,5022,Wireless Mouse,Electronics,2,24.99
+179,5095,Backpack,Apparel,3,64.99
+680,5354,Desk Lamp,Home,2,28.75
+739,5384,Backpack,Apparel,2,64.99
+121,5063,Running Shoes,Apparel,2,89.99
+276,5143,Backpack,Apparel,2,64.99
+45,5027,Wireless Mouse,Electronics,1,24.99
+301,5155,Bluetooth Speaker,Electronics,1,59.99
+837,5432,Backpack,Apparel,3,64.99
+77,5043,Yoga Mat,Fitness,2,32.5
+721,5374,Yoga Mat,Fitness,1,32.5
+369,5191,Backpack,Apparel,1,64.99
+213,5113,Bluetooth Speaker,Electronics,1,59.99
+268,5138,Backpack,Apparel,1,64.99
+312,5158,Coffee Grinder,Home,3,45
+729,5378,Wireless Mouse,Electronics,2,24.99
+445,5227,Water Bottle,Fitness,3,18
+504,5259,Wireless Mouse,Electronics,2,24.99
+496,5256,Desk Lamp,Home,1,28.75
+34,5021,Wireless Mouse,Electronics,3,24.99
+10,5007,Bluetooth Speaker,Electronics,2,59.99
+689,5360,Coffee Grinder,Home,3,45
+161,5087,Bluetooth Speaker,Electronics,2,59.99
+286,5148,Yoga Mat,Fitness,3,32.5
+296,5152,Bluetooth Speaker,Electronics,1,59.99
+617,5320,Running Shoes,Apparel,1,89.99
+825,5426,Bluetooth Speaker,Electronics,2,59.99
+626,5324,Running Shoes,Apparel,1,89.99
+278,5144,Desk Lamp,Home,1,28.75
+886,5456,Bluetooth Speaker,Electronics,2,59.99
+604,5312,Yoga Mat,Fitness,3,32.5
+485,5249,Desk Lamp,Home,1,28.75
+497,5256,Yoga Mat,Fitness,1,32.5
+183,5097,Desk Lamp,Home,1,28.75
+828,5427,Yoga Mat,Fitness,3,32.5
+931,5477,Desk Lamp,Home,1,28.75
+685,5357,Water Bottle,Fitness,3,18
+745,5389,Wireless Mouse,Electronics,1,24.99
+946,5486,Backpack,Apparel,3,64.99
+37,5023,Bluetooth Speaker,Electronics,3,59.99
+157,5084,Desk Lamp,Home,1,28.75
+3,5002,Running Shoes,Apparel,2,89.99
+755,5394,Wireless Mouse,Electronics,3,24.99
+509,5263,Running Shoes,Apparel,1,89.99
+498,5257,Desk Lamp,Home,3,28.75
+309,5157,Wireless Mouse,Electronics,2,24.99
+290,5150,Running Shoes,Apparel,1,89.99
+561,5290,Coffee Grinder,Home,3,45
+415,5212,Backpack,Apparel,1,64.99
+422,5215,Coffee Grinder,Home,3,45
+142,5077,Coffee Grinder,Home,2,45
+224,5118,Water Bottle,Fitness,1,18
+865,5444,Bluetooth Speaker,Electronics,2,59.99
+184,5097,Running Shoes,Apparel,3,89.99
+844,5436,Coffee Grinder,Home,1,45
+917,5471,Bluetooth Speaker,Electronics,3,59.99
+673,5350,Wireless Mouse,Electronics,3,24.99
+849,5438,Bluetooth Speaker,Electronics,1,59.99
+512,5264,Coffee Grinder,Home,2,45
+732,5379,Desk Lamp,Home,2,28.75
+612,5316,Wireless Mouse,Electronics,3,24.99
+893,5460,Bluetooth Speaker,Electronics,1,59.99
+748,5391,Wireless Mouse,Electronics,1,24.99
+921,5472,Coffee Grinder,Home,1,45
+118,5062,Coffee Grinder,Home,3,45
+854,5441,Desk Lamp,Home,1,28.75
+2,5001,Bluetooth Speaker,Electronics,2,59.99
+114,5060,Yoga Mat,Fitness,1,32.5
+934,5480,Running Shoes,Apparel,2,89.99
+687,5358,Wireless Mouse,Electronics,1,24.99
+766,5399,Running Shoes,Apparel,1,89.99
+166,5089,Water Bottle,Fitness,1,18
+185,5097,Wireless Mouse,Electronics,1,24.99
+678,5354,Yoga Mat,Fitness,1,32.5
+373,5194,Running Shoes,Apparel,3,89.99
+275,5143,Water Bottle,Fitness,2,18
+705,5367,Water Bottle,Fitness,3,18
+1,5001,Wireless Mouse,Electronics,3,24.99
+567,5293,Water Bottle,Fitness,3,18
+888,5458,Running Shoes,Apparel,3,89.99
+541,5279,Wireless Mouse,Electronics,2,24.99
+501,5258,Running Shoes,Apparel,2,89.99
+719,5373,Yoga Mat,Fitness,2,32.5
+384,5199,Desk Lamp,Home,3,28.75
+406,5208,Desk Lamp,Home,2,28.75
+562,5291,Wireless Mouse,Electronics,2,24.99
+863,5444,Coffee Grinder,Home,1,45
+21,5013,Coffee Grinder,Home,1,45
+806,5417,Coffee Grinder,Home,2,45
+177,5094,Running Shoes,Apparel,2,89.99
+336,5173,Coffee Grinder,Home,2,45
+380,5197,Desk Lamp,Home,2,28.75
+546,5281,Coffee Grinder,Home,2,45
+172,5092,Desk Lamp,Home,1,28.75
+520,5269,Bluetooth Speaker,Electronics,1,59.99
+831,5429,Wireless Mouse,Electronics,1,24.99
+508,5262,Desk Lamp,Home,3,28.75
+153,5083,Yoga Mat,Fitness,3,32.5
+619,5321,Desk Lamp,Home,3,28.75
+414,5211,Desk Lamp,Home,2,28.75
+610,5314,Coffee Grinder,Home,2,45
+623,5322,Bluetooth Speaker,Electronics,3,59.99
+873,5448,Yoga Mat,Fitness,1,32.5
+582,5301,Desk Lamp,Home,3,28.75
+859,5442,Bluetooth Speaker,Electronics,3,59.99
+642,5334,Wireless Mouse,Electronics,1,24.99
+317,5162,Bluetooth Speaker,Electronics,1,59.99
+259,5135,Bluetooth Speaker,Electronics,3,59.99
+835,5431,Running Shoes,Apparel,3,89.99
+663,5345,Wireless Mouse,Electronics,3,24.99
+475,5243,Coffee Grinder,Home,2,45
+338,5173,Coffee Grinder,Home,3,45
+539,5278,Backpack,Apparel,1,64.99
+505,5259,Running Shoes,Apparel,3,89.99
+399,5205,Bluetooth Speaker,Electronics,3,59.99
+424,5216,Bluetooth Speaker,Electronics,1,59.99
+606,5313,Running Shoes,Apparel,2,89.99
+941,5483,Desk Lamp,Home,2,28.75
+661,5343,Running Shoes,Apparel,1,89.99
+481,5246,Yoga Mat,Fitness,1,32.5
+423,5216,Bluetooth Speaker,Electronics,1,59.99
+120,5063,Yoga Mat,Fitness,3,32.5
+918,5471,Coffee Grinder,Home,2,45
+651,5339,Bluetooth Speaker,Electronics,2,59.99
+682,5356,Running Shoes,Apparel,1,89.99
+876,5450,Coffee Grinder,Home,3,45
+715,5371,Backpack,Apparel,3,64.99
+660,5343,Wireless Mouse,Electronics,1,24.99
+790,5410,Yoga Mat,Fitness,2,32.5
+257,5133,Water Bottle,Fitness,1,18
+969,5499,Wireless Mouse,Electronics,3,24.99
+953,5490,Backpack,Apparel,2,64.99
+644,5335,Water Bottle,Fitness,1,18
+250,5128,Yoga Mat,Fitness,2,32.5
+665,5346,Wireless Mouse,Electronics,2,24.99
+875,5449,Desk Lamp,Home,2,28.75

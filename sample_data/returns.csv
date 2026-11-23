@@ -1,0 +1,95 @@
+﻿return_id,order_id,return_date,return_type,return_reason_desc,refund_amount
+44,5481,2025-04-22,Wrong Item,Wrong size shipped,37.52
+15,5139,2025-10-28,Changed Mind,Found better price elsewhere,34.67
+14,5366,2025-01-17,Wrong Item,Color did not match order,89.31
+83,5212,2025-06-05,Changed Mind,Found better price elsewhere,27.14
+71,5326,2025-05-12,Wrong Item,Color did not match order,65.22
+21,5290,2025-07-22,Changed Mind,No longer needed,22.32
+82,5089,2025-07-12,Changed Mind,Different from website photos,27.79
+11,5048,2025-04-21,Changed Mind,Found better price elsewhere,57.74
+40,5196,2025-06-08,Defective,Item arrived damaged,87.51
+3,5277,2025-05-24,Not As Described,Different from website photos,48.46
+17,5417,2025-02-07,Changed Mind,No longer needed,26.18
+38,5061,2025-10-25,Changed Mind,Ordered by mistake,52.31
+66,5324,2025-02-21,Defective,Stopped working after 2 days,53.41
+91,9901,2025-06-06,Wrong Item,Color did not match order,64.46
+69,5411,2025-04-05,Defective,Stopped working after 2 days,76.41
+49,5405,2025-10-14,Defective,Missing parts,76.83
+75,5253,2025-07-03,Changed Mind,No longer needed,31.69
+62,5096,2025-08-22,Defective,Stopped working after 2 days,40.16
+27,5288,2025-02-28,Changed Mind,Received wrong product,21.13
+30,5284,2025-09-28,Defective,Missing parts,34.52
+76,5293,2025-08-23,Not As Described,Different from website photos,20.18
+36,5150,2025-03-17,Wrong Item,Wrong size shipped,56.56
+25,5038,2025-06-15,Not As Described,Missing parts,19.01
+6,5168,2025-11-05,Defective,Stopped working after 2 days,16.04
+92,9902,2025-01-26,Wrong Item,Color did not match order,46.41
+20,5467,2025-08-25,Changed Mind,No longer needed,48.13
+72,5373,2025-03-02,Not As Described,Different from website photos,33.01
+55,5033,2025-08-21,Defective,Item arrived damaged,61.75
+28,5410,2025-09-12,Defective,Item arrived damaged,80.71
+5,5337,2025-02-14,Wrong Item,Wrong size shipped,48.41
+78,5316,2025-09-25,Not As Described,Different from website photos,57.2
+42,5322,2025-09-05,Not As Described,Quality lower than expected,62.21
+89,5024,2025-04-29,Not As Described,Quality lower than expected,51.22
+19,5056,2025-03-24,Not As Described,Quality lower than expected,22.72
+80,5456,2025-01-27,Not As Described,Different from website photos,67.31
+8,5005,2025-10-29,Wrong Item,Received wrong product,53.74
+7,5447,2025-07-06,Not As Described,Quality lower than expected,64.51
+60,5018,2025-05-16,Defective,No longer needed,84.43
+12,5224,2025-11-07,Not As Described,Different from website photos,84.67
+54,5082,2025-07-20,Changed Mind,Ordered by mistake,80.31
+23,5474,2025-09-28,Changed Mind,No longer needed,89.84
+68,5016,2025-08-22,Changed Mind,No longer needed,84.63
+64,5317,2025-04-17,Wrong Item,Received wrong product,29.87
+13,5369,2025-04-22,Wrong Item,Wrong size shipped,35.17
+87,5091,2025-07-15,Wrong Item,Received wrong product,21.32
+26,5272,2025-07-26,Wrong Item,Wrong size shipped,79.34
+48,5363,2025-06-07,Defective,No longer needed,38.47
+18,5357,2025-06-14,Defective,Missing parts,58.99
+32,5278,2025-02-15,Wrong Item,Wrong size shipped,31.59
+35,5151,2025-09-09,Defective,Missing parts,51.07
+16,5003,2025-10-21,Changed Mind,No longer needed,51.66
+61,5238,2025-07-16,Defective,Item arrived damaged,33.11
+81,5393,2025-02-22,Defective,Missing parts,23.47
+77,5450,2025-03-07,Defective,Wrong size shipped,43.68
+29,5110,2025-04-19,Defective,Missing parts,86.76
+65,5058,2025-03-01,Changed Mind,No longer needed,40.41
+63,5390,2025-02-09,Defective,Item arrived damaged,48.95
+34,5019,2025-09-12,Not As Described,Quality lower than expected,75.42
+46,5125,2025-05-16,Wrong Item,Quality lower than expected,65.18
+43,5230,2025-04-26,Changed Mind,Found better price elsewhere,55.74
+52,5099,2025-08-10,Changed Mind,Ordered by mistake,89.45
+41,5107,2025-01-29,Not As Described,Quality lower than expected,38.84
+33,5051,2025-10-14,Changed Mind,No longer needed,61.85
+24,5156,2025-06-26,Not As Described,Different from website photos,45.09
+86,5175,2025-07-28,Changed Mind,Ordered by mistake,21.9
+50,5271,2025-04-16,Defective,Missing parts,82.96
+9,5461,2025-04-05,Not As Described,Quality lower than expected,66.8
+31,5374,2025-05-09,Wrong Item,Received wrong product,50.54
+94,9904,2025-08-31,Defective,Missing parts,73.58
+67,5281,2025-04-13,Not As Described,Quality lower than expected,37.9
+57,5463,2025-03-28,Changed Mind,Found better price elsewhere,27.19
+79,5106,2025-03-20,Not As Described,Found better price elsewhere,25.6
+74,5240,2025-06-11,Not As Described,Quality lower than expected,89.54
+22,5387,2025-05-27,Not As Described,Different from website photos,35.84
+84,5167,2025-03-23,Not As Described,Different from website photos,21.86
+1,5247,2025-03-10,Wrong Item,Received wrong product,28.57
+4,5250,2025-04-14,Not As Described,Quality lower than expected,27.42
+53,5221,2025-08-20,Defective,Item arrived damaged,23.29
+39,5131,2025-03-04,Changed Mind,No longer needed,42.58
+45,5181,2025-02-16,Wrong Item,Color did not match order,46.54
+90,5397,2025-10-03,Changed Mind,No longer needed,56.93
+37,5243,2025-09-12,Not As Described,Quality lower than expected,50.22
+58,5232,2025-03-19,Wrong Item,Received wrong product,27
+85,5496,2025-04-04,Not As Described,Quality lower than expected,64.43
+93,9903,2025-10-14,Wrong Item,Received wrong product,36.99
+59,5352,2025-09-09,Defective,Missing parts,55.77
+10,5147,2025-10-05,Defective,Missing parts,85.4
+51,5194,2025-03-18,Wrong Item,Received wrong product,35.06
+73,5259,2025-08-06,Not As Described,Quality lower than expected,22.57
+88,5354,2025-10-28,Changed Mind,Ordered by mistake,79.88
+2,5399,2025-04-26,Changed Mind,Ordered by mistake,42.05
+70,5173,2025-07-05,Defective,Stopped working after 2 days,18.58
+56,5430,2025-07-21,Not As Described,Quality lower than expected,56.34
+47,5081,2025-11-08,Changed Mind,No longer needed,68.49
